@@ -9,4 +9,5 @@ import org.springframework.stereotype.Repository;
 @Qualifier(value = "employeeInformationRepository")
 public interface EmployeeInformationRepository extends JpaRepository<EmployeeInformation, String> {
 
+	EmployeeInformation findByPk(final String pk);
 }

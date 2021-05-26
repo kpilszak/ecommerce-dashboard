@@ -1,5 +1,3 @@
-# ecommerce-dashboard
-Admin dashboard for e-commerce
 <h1 align="right">E-commerce dashboard</h1><br>
 
 ## Table of contents

@@ -7,7 +7,7 @@
 
 ## General info
 This project is a Spring application.  
-The main purpose is to develop admin dashboard for e-commerce.  
+The main purpose is to develop an admin dashboard for e-commerce.  
 
 ## Technologies
 Project is created with:
